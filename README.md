@@ -1,0 +1,2 @@
+# Starfleet_Entry_Log_Assortment_System
+Quarantine has certainly left me bored. Watching Star Trek has certainly inspired me to create more projects. Like the LCARS and the PADD, they certainly have make their marks in Star Trek history. Seeing that there are no named systems for the log entries made by Starfleet personnel, I have decided to create one. Dedicating a system that can either record audio and convert it to text or typing it and logging them in a fashion like Star Trek, the Entry Log Assortment System (ELAS) will serve that functionality
