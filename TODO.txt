@@ -1,0 +1,23 @@
+# Establish stardate (Done)
+
+# Record sample log which includes debugging microphone presence
+
+# Add in functionality to end the log after a key has been pressed. (Shift?)
+
+# Establish saved directory (DONE)
+
+# Convert the audio to text (DONE)
+
+# Save the file
+
+# Supplemental Logs (DONE)
+
+# Deleting Log entries. 
+
+# Reading log entries. Note that starfleet officers read their logs NOT listen to logs. 
+
+Listening is for evidencial circumstance
+
+# Pausing Log entries? (Might be a little advanced)
+
+# Resuming Log entries? (Might be a little advanced)
